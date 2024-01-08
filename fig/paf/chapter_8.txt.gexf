@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Secteur de Mycogène de l’" label="Secteur de Mycogène de l’" />
+      <node id="Hari Seldon" label="Hari Seldon" />
+      <node id="n’" label="n’" />
+      <node id="Seldon s’" label="Seldon s’" />
+      <node id="s’" label="s’" />
+      <node id="Endor Levanian" label="Endor Levanian" />
+      <node id="Inutile" label="Inutile" />
+      <node id="Seldon" label="Seldon" />
+      <node id="Certainement" label="Certainement" />
+      <node id="Levanian" label="Levanian" />
+      <node id="Jusqu’" label="Jusqu’" />
+      <node id="Impossible" label="Impossible" />
+      <node id="Hari" label="Hari" />
+      <node id="d’" label="d’" />
+      <node id="qu’" label="qu’" />
+      <node id="Hummin" label="Hummin" />
+      <node id="Clowzia" label="Clowzia" />
+      <node id="Mycogène" label="Mycogène" />
+      <node id="Maître-du-Soleil Quatorze" label="Maître-du-Soleil Quatorze" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="Mycogénien" label="Mycogénien" />
+      <node id="Lugubre" label="Lugubre" />
+      <node id="m’" label="m’" />
+      <node id="Exo" label="Exo" />
+      <node id="Maître" label="Maître" />
+      <node id="L’espace" label="L’espace" />
+      <node id="l’étiquette" label="l’étiquette" />
+      <node id="Merci" label="Merci" />
+      <node id="s’étonna Dors" label="s’étonna Dors" />
+      <node id="Maître-&#10;du-Soleil" label="Maître-&#10;du-Soleil" />
+      <node id="s’exclama" label="s’exclama" />
+      <node id="Grisnuage" label="Grisnuage" />
+      <node id="Goutte-de-Pluie Quarante-trois" label="Goutte-de-Pluie Quarante-trois" />
+      <node id="Goutte-de-Pluie Quarante-cinq" label="Goutte-de-Pluie Quarante-cinq" />
+      <node id="Pluie ‖" label="Pluie ‖" />
+      <node id="diriez" label="diriez" />
+      <node id="L’aînée" label="L’aînée" />
+      <node id="Goutte-de-Pluie Quarante" label="Goutte-de-Pluie Quarante" />
+      <node id="Dors" label="Dors" />
+    </nodes>
+    <edges>
+      <edge source="n’" target="Hari" id="0">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Seldon" id="1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="2">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Impossible" id="3">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="d’" id="4">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Clowzia" id="5">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Hummin" id="6">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="qu’" id="7">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Dors" id="8">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Maître" id="9">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Mycogène" id="10">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="11">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Merci" id="12">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Grisnuage" id="13">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="m’" id="14">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Seldon" id="15">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="16">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="qu’" id="17">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Dors" id="18">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Levanian" id="19">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Clowzia" id="20">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Hummin" id="21">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="d’" id="22">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Grisnuage" id="23">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="m’" id="24">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Hari" id="25">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Hari" id="26">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Exo" id="27">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Dors" id="28">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="d’" id="29">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Certainement" id="30">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Levanian" id="31">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Jusqu’" id="32">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Seldon" id="33">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="qu’" id="34">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Clowzia" id="35">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Lugubre" id="36">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Grisnuage" id="37">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="diriez" id="38">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="m’" id="39">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Certainement" target="d’" id="40">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Certainement" target="Levanian" id="41">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Levanian" target="Levanian" id="42">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Levanian" target="Jusqu’" id="43">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Levanian" target="Hummin" id="44">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Hari" target="qu’" id="45">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Hari" target="Dors" id="46">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hari" target="d’" id="47">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Hari" target="m’" id="48">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Exo" id="49">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Dors" id="50">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="qu’" id="51">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="d’" id="52">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="jusqu’" id="53">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Lugubre" id="54">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="m’" id="55">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Maître" id="56">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Merci" id="57">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Grisnuage" id="58">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Dors" id="59">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="qu’" id="60">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Hummin" id="61">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Mycogénien" id="62">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Lugubre" id="63">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Mycogène" id="64">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Merci" id="65">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Grisnuage" id="66">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="Mycogène" id="67">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Lugubre" target="Dors" id="68">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Grisnuage" id="69">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Dors" id="70">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Exo" target="Dors" id="71">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Grisnuage" target="Dors" id="72">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Grisnuage" target="Grisnuage" id="73">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Dors" target="Dors" id="74">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

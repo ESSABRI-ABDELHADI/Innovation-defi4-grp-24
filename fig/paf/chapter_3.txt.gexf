@@ -1,0 +1,349 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="n’" label="n’" />
+      <node id="Hari&#10;Seldon" label="Hari&#10;Seldon" />
+      <node id="Fuite" label="Fuite" />
+      <node id="Hari Seldon" label="Hari Seldon" />
+      <node id="Hummin" label="Hummin" />
+      <node id="L’Empire&#10;Galactique" label="L’Empire&#10;Galactique" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="Seldon" label="Seldon" />
+      <node id="s’" label="s’" />
+      <node id="qu’" label="qu’" />
+      <node id="m’" label="m’" />
+      <node id="Trantor" label="Trantor" />
+      <node id="Trantor n’" label="Trantor n’" />
+      <node id="d’" label="d’" />
+      <node id="n’avez eu personne" label="n’avez eu personne" />
+      <node id="l’Empereur" label="l’Empereur" />
+      <node id="Demerzel" label="Demerzel" />
+      <node id="l’aérotaxi" label="l’aérotaxi" />
+      <node id="D’" label="D’" />
+      <node id="Suaverose" label="Suaverose" />
+      <node id="Évidemment" label="Évidemment" />
+      <node id="Ni de grêle" label="Ni de grêle" />
+      <node id="Hummin l’" label="Hummin l’" />
+      <node id="Seldon s’" label="Seldon s’" />
+      <node id="j’" label="j’" />
+      <node id="J’ai promis" label="J’ai promis" />
+      <node id="L’" label="L’" />
+      <node id="Hein" label="Hein" />
+      <node id="L’Empereur" label="L’Empereur" />
+    </nodes>
+    <edges>
+      <edge source="n’" target="Trantor" id="0">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="d’" id="1">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="qu’" id="2">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="L’" id="3">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="jusqu’" id="4">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="5">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Seldon" id="6">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="7">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="m’" id="8">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="j’" id="9">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Hummin" id="10">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Demerzel" id="11">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Fuite" target="qu’" id="12">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Fuite" target="Seldon" id="13">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="Seldon" id="14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="Trantor" id="15">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="D’" id="16">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="m’" id="17">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="jusqu’" id="18">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="qu’" id="19">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="s’" id="20">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="d’" id="21">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="L’" id="22">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Hummin" target="Hein" id="23">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="d’" id="24">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="qu’" id="25">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="s’" id="26">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="Seldon" id="27">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="m’" id="28">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="qu’" id="29">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Seldon" id="30">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="s’" id="31">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="d’" id="32">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Trantor" id="33">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="D’" id="34">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Suaverose" id="35">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Évidemment" id="36">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="L’" id="37">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="d’" id="38">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="qu’" id="39">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Trantor" id="40">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="D’" id="41">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="42">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="L’" id="43">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="L’" id="44">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="d’" id="45">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="qu’" id="46">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Trantor" id="47">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="m’" id="48">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="j’" id="49">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="d’" id="50">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="j’" id="51">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="d’" id="52">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="D’" id="53">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Évidemment" id="54">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="d’" id="55">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="j’" id="56">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Demerzel" id="57">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="L’" id="58">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Demerzel" target="L’" id="59">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Suaverose" target="Évidemment" id="60">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="R. Daneel" label="R. Daneel" />
+      <node id="qu’" label="qu’" />
+      <node id="Messieurs" label="Messieurs" />
+      <node id="n’" label="n’" />
+      <node id="m’" label="m’" />
+      <node id="s’" label="s’" />
+      <node id="Boris" label="Boris" />
+      <node id="Allons" label="Allons" />
+      <node id="d’" label="d’" />
+      <node id="Mondes Extérieurs" label="Mondes Extérieurs" />
+      <node id="n’avez" label="n’avez" />
+    </nodes>
+    <edges>
+      <edge source="qu’" target="qu’" id="0">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="d’" id="1">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="n’" id="2">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="m’" id="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="s’" id="4">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Allons" id="5">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Messieurs" target="d’" id="6">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Messieurs" target="m’" id="7">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="m’" id="8">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="d’" id="9">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="10">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="d’" id="11">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="s’" id="12">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="d’" id="13">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Allons" id="14">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Allons" target="d’" id="15">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Allons" target="Allons" id="16">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="d’" id="17">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="d’exercice" label="d’exercice" />
+      <node id="d’" label="d’" />
+      <node id="qu’" label="qu’" />
+      <node id="n’" label="n’" />
+      <node id="Spacetown" label="Spacetown" />
+      <node id="s’" label="s’" />
+      <node id="Spaciens" label="Spaciens" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="Long&#10;Island" label="Long&#10;Island" />
+      <node id="l’Hudson" label="l’Hudson" />
+      <node id="Julius Enderby" label="Julius Enderby" />
+      <node id="Mondes Extérieurs" label="Mondes Extérieurs" />
+      <node id="escalier" label="escalier" />
+      <node id="R. Daneel&#10;Olivaw" label="R. Daneel&#10;Olivaw" />
+      <node id="Olivaw" label="Olivaw" />
+      <node id="Elijah Baley" label="Elijah Baley" />
+      <node id="Spacien" label="Spacien" />
+      <node id="R.&#10;Daneel" label="R.&#10;Daneel" />
+      <node id="l’éclair" label="l’éclair" />
+      <node id="R. Sammy" label="R. Sammy" />
+      <node id="R. Daneel" label="R. Daneel" />
+      <node id="Cassez" label="Cassez" />
+      <node id="pièce !" label="pièce !" />
+    </nodes>
+    <edges>
+      <edge source="d’" target="d’" id="0">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="qu’" id="1">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="s’" id="2">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Spacetown" id="3">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Spaciens" id="4">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="n’" id="5">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="jusqu’" id="6">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Spacien" id="7">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Spaciens" id="8">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Spacetown" id="9">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="n’" id="10">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="s’" id="11">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="escalier" id="12">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="13">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Spacetown" id="14">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Spaciens" id="15">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="16">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Cassez" id="17">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Spacetown" target="s’" id="18">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Spacetown" target="Spacetown" id="19">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Spacetown" target="Spaciens" id="20">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="21">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Spaciens" id="22">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="escalier" id="23">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Spacien" id="24">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Olivaw" id="25">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Spaciens" target="jusqu’" id="26">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Olivaw" target="Spacien" id="27">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

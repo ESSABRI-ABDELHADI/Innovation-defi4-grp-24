@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Gerrigel" label="Gerrigel" />
+      <node id="n’" label="n’" />
+      <node id="Voudriez" label="Voudriez" />
+      <node id="Prétendez" label="Prétendez" />
+      <node id="n’aurais" label="n’aurais" />
+      <node id="Manuel" label="Manuel" />
+      <node id="n’acceptez" label="n’acceptez" />
+      <node id="s’accentuer" label="s’accentuer" />
+      <node id="m’" label="m’" />
+      <node id="s’" label="s’" />
+      <node id="d’" label="d’" />
+      <node id="anormal" label="anormal" />
+      <node id="R. Daneel" label="R. Daneel" />
+      <node id="Ouvrez" label="Ouvrez" />
+      <node id="Daneel" label="Daneel" />
+      <node id="abasourdi" label="abasourdi" />
+      <node id="Norris" label="Norris" />
+      <node id="Dis" label="Dis" />
+      <node id="Ecoute" label="Ecoute" />
+      <node id="Lije" label="Lije" />
+      <node id="Vince Barrett" label="Vince Barrett" />
+      <node id="R. Sammy" label="R. Sammy" />
+      <node id="Dites" label="Dites" />
+      <node id="Baley" label="Baley" />
+      <node id="Barrett" label="Barrett" />
+      <node id="Phil" label="Phil" />
+      <node id="Mange" label="Mange" />
+      <node id="s’écria" label="s’écria" />
+      <node id="Enderby" label="Enderby" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="Julius Enderby" label="Julius Enderby" />
+      <node id="Savez" label="Savez" />
+      <node id="D’accord" label="D’accord" />
+      <node id="Spacetown" label="Spacetown" />
+      <node id="d’envoyer" label="d’envoyer" />
+      <node id="qu’" label="qu’" />
+      <node id="Supposez" label="Supposez" />
+    </nodes>
+    <edges>
+      <edge source="Gerrigel" target="Baley" id="0">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Gerrigel" target="n’" id="1">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Gerrigel" target="Daneel" id="2">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Gerrigel" target="s’" id="3">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Gerrigel" target="d’" id="4">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Baley" id="5">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="d’" id="6">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="qu’" id="7">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="8">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="9">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="m’" id="10">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Daneel" id="11">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="abasourdi" id="12">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Norris" id="13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Barrett" id="14">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Enderby" id="15">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Savez" id="16">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Supposez" id="17">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Voudriez" target="Baley" id="18">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Voudriez" target="Prétendez" id="19">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Prétendez" target="Baley" id="20">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Manuel" target="Baley" id="21">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Baley" id="22">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="s’" id="23">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="m’" id="24">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="qu’" id="25">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Ecoute" id="26">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Lije" id="27">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="d’" id="28">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="qu’" id="29">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="d’" id="30">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Daneel" id="31">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Baley" id="32">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Dis" id="33">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Norris" id="34">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Barrett" id="35">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Phil" id="36">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="37">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Enderby" id="38">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Baley" id="39">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="d’" id="40">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Daneel" id="41">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="anormal" id="42">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="abasourdi" id="43">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="qu’" id="44">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Norris" id="45">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Lije" id="46">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Enderby" id="47">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="jusqu’" id="48">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Savez" id="49">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="anormal" target="Daneel" id="50">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Ouvrez" target="Baley" id="51">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Daneel" target="Baley" id="52">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Daneel" target="abasourdi" id="53">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Daneel" target="qu’" id="54">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Daneel" target="Enderby" id="55">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Norris" target="Baley" id="56">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Norris" target="Dis" id="57">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Norris" target="qu’" id="58">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Norris" target="Barrett" id="59">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Norris" target="Phil" id="60">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Norris" target="Lije" id="61">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Dis" target="qu’" id="62">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoute" target="Lije" id="63">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lije" target="Mange" id="64">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dites" target="Baley" id="65">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="qu’" id="66">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="Barrett" id="67">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="Baley" id="68">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="Enderby" id="69">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="jusqu’" id="70">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Barrett" target="qu’" id="71">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Enderby" target="qu’" id="72">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="qu’" id="73">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Supposez" id="74">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

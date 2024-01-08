@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Hari Seldon" label="Hari Seldon" />
+      <node id="Goutte-de-Pluie Quarante" label="Goutte-de-Pluie Quarante" />
+      <node id="Frère" label="Frère" />
+      <node id="n’" label="n’" />
+      <node id="j’ai l’" label="j’ai l’" />
+      <node id="Mycogène n’" label="Mycogène n’" />
+      <node id="s’" label="s’" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="d’" label="d’" />
+      <node id="Sœur" label="Sœur" />
+      <node id="Seldon" label="Seldon" />
+      <node id="Goutte-de-Pluie Quarante-" label="Goutte-de-Pluie Quarante-" />
+      <node id="qu’" label="qu’" />
+      <node id="Goutte-de-Pluie Quarante-trois" label="Goutte-de-Pluie Quarante-trois" />
+      <node id="Seldon n’" label="Seldon n’" />
+      <node id="Ça m’" label="Ça m’" />
+      <node id="Mycogène" label="Mycogène" />
+      <node id="m’" label="m’" />
+      <node id="― Pourtant" label="― Pourtant" />
+      <node id="j’ai eu l’" label="j’ai eu l’" />
+      <node id="Hari" label="Hari" />
+      <node id="Livre" label="Livre" />
+      <node id="D’" label="D’" />
+      <node id="L’homme" label="L’homme" />
+      <node id="« Bon" label="« Bon" />
+      <node id="Écoutez" label="Écoutez" />
+      <node id="Goutte-de-Pluie&#10;Quarante-cinq" label="Goutte-de-Pluie&#10;Quarante-cinq" />
+    </nodes>
+    <edges>
+      <edge source="Frère" target="Seldon" id="0">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Frère" target="n’" id="1">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Frère" target="m’" id="2">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Seldon" id="3">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="qu’" id="4">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="d’" id="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Mycogène" id="6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="7">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Sœur" id="8">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="m’" id="9">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Livre" id="10">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="11">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="qu’" id="12">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="d’" id="13">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="jusqu’" id="14">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Seldon" id="15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Sœur" id="16">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="17">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Mycogène" id="18">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="D’" id="19">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Livre" id="20">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="qu’" id="21">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="d’" id="22">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="Seldon" id="23">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Hari" id="24">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Seldon" id="25">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="d’" id="26">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Mycogène" id="27">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="qu’" id="28">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Sœur" id="29">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Livre" id="30">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="d’" target="Écoutez" id="31">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Sœur" target="Seldon" id="32">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Sœur" target="qu’" id="33">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Livre" id="34">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Hari" id="35">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Seldon" id="36">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="qu’" id="37">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Mycogène" id="38">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Mycogène" id="39">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="m’" id="40">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Livre" id="41">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="Hari" id="42">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="qu’" target="qu’" id="43">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Hari" id="44">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="m’" id="45">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Livre" id="46">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Hari" target="Livre" id="47">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Livre" target="D’" id="48">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Livre" target="Livre" id="49">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
