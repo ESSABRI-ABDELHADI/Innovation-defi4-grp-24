@@ -1,0 +1,2610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-14">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Asimov" label="Asimov" />
+      <node id="Isaac" label="Isaac" />
+      <node id="Trevize" label="Trevize" />
+      <node id="Hannis" label="Hannis" />
+      <node id="Regarde" label="Regarde" />
+      <node id="Maire Branno" label="Maire Branno" />
+      <node id="Salvor &#10;Hardin" label="Salvor &#10;Hardin" />
+      <node id="Hardin" label="Hardin" />
+      <node id="Salvor Hardin" label="Salvor Hardin" />
+      <node id="Madame le Maire" label="Madame le Maire" />
+      <node id="Harlan Branno" label="Harlan Branno" />
+      <node id="Mulet" label="Mulet" />
+      <node id="Terminus" label="Terminus" />
+      <node id="Hari &#10;Seldon" label="Hari &#10;Seldon" />
+      <node id="II" label="II" />
+      <node id="madame le Maire" label="madame le Maire" />
+      <node id="Liono Kodell" label="Liono Kodell" />
+      <node id="resta debout" label="resta debout" />
+      <node id="Votre boulot" label="Votre boulot" />
+      <node id="Kodell" label="Kodell" />
+      <node id="Hari Seldon" label="Hari Seldon" />
+      <node id="Pouvez" label="Pouvez" />
+      <node id="- Bon" label="- Bon" />
+      <node id="Branno" label="Branno" />
+      <node id="Branno de Bronze" label="Branno de Bronze" />
+      <node id="Flexner" label="Flexner" />
+      <node id="Maire de Terminus" label="Maire de Terminus" />
+      <node id="Bel" label="Bel" />
+      <node id="Riose" label="Riose" />
+      <node id="le Mulet" label="le Mulet" />
+      <node id="Bayta Darell" label="Bayta Darell" />
+      <node id="Arkady Darell" label="Arkady Darell" />
+      <node id="Arkady" label="Arkady" />
+      <node id="Rares" label="Rares" />
+      <node id="lutta" label="lutta" />
+      <node id="Seldon" label="Seldon" />
+      <node id="Empire" label="Empire" />
+      <node id="Dominer" label="Dominer" />
+      <node id="lenteur enfila" label="lenteur enfila" />
+      <node id="Golan Trevize" label="Golan Trevize" />
+      <node id="Historien" label="Historien" />
+      <node id="Janov Pelorat" label="Janov Pelorat" />
+      <node id="Pelorat" label="Pelorat" />
+      <node id="Avez" label="Avez" />
+      <node id="Janov" label="Janov" />
+      <node id="Trantor" label="Trantor" />
+      <node id="Quels" label="Quels" />
+      <node id="Madame le Maire Branno" label="Madame le Maire Branno" />
+      <node id="Secteur de Sirius" label="Secteur de Sirius" />
+      <node id="Connaissez" label="Connaissez" />
+      <node id="madame" label="madame" />
+      <node id="Permettez" label="Permettez" />
+      <node id="Réfléchissez" label="Réfléchissez" />
+      <node id="Liono" label="Liono" />
+      <node id="Hober Mallow" label="Hober Mallow" />
+      <node id="Ecoutez" label="Ecoutez" />
+      <node id="Professeur" label="Professeur" />
+      <node id="Fermez" label="Fermez" />
+      <node id="détendez" label="détendez" />
+      <node id="Laisser" label="Laisser" />
+      <node id="Le Premier &#10;Orateur" label="Le Premier &#10;Orateur" />
+      <node id="Grand Pillage" label="Grand Pillage" />
+      <node id="Gendibal" label="Gendibal" />
+      <node id="Le Premier Orateur" label="Le Premier Orateur" />
+      <node id="Stor Gendibal" label="Stor Gendibal" />
+      <node id="Etre Premier &#10;Orateur" label="Etre Premier &#10;Orateur" />
+      <node id="Preem Palver" label="Preem Palver" />
+      <node id="Premier Orateur" label="Premier Orateur" />
+      <node id="Premier &#10;Orateur" label="Premier &#10;Orateur" />
+      <node id="Shandess" label="Shandess" />
+      <node id="Etudier le Premier" label="Etudier le Premier" />
+      <node id="Orateur" label="Orateur" />
+      <node id="Premier &#10;Radiant" label="Premier &#10;Radiant" />
+      <node id="T" label="T" />
+      <node id="Preem" label="Preem" />
+      <node id="Pal" label="Pal" />
+      <node id="Palver" label="Palver" />
+      <node id="considérez" label="considérez" />
+      <node id="Sinon" label="Sinon" />
+      <node id="Sauriez" label="Sauriez" />
+      <node id="Homo sapiens" label="Homo sapiens" />
+      <node id="Anacréon" label="Anacréon" />
+      <node id="Pense Anacréon" label="Pense Anacréon" />
+      <node id="Far Star" label="Far Star" />
+      <node id="Parlez" label="Parlez" />
+      <node id="Racontez" label="Racontez" />
+      <node id="Golan" label="Golan" />
+      <node id="J.L.G." label="J.L.G." />
+      <node id="Seulement" label="Seulement" />
+      <node id="Gaïa" label="Gaïa" />
+      <node id="Superstition" label="Superstition" />
+      <node id="Hamien" label="Hamien" />
+      <node id="Quiconque" label="Quiconque" />
+      <node id="Déviations" label="Déviations" />
+      <node id="brun" label="brun" />
+      <node id="Rufirant" label="Rufirant" />
+      <node id="Y" label="Y" />
+      <node id="Dégagez" label="Dégagez" />
+      <node id="Delora Delarmi" label="Delora Delarmi" />
+      <node id="Delarmi" label="Delarmi" />
+      <node id="Aucun Premier Orateur" label="Aucun Premier Orateur" />
+      <node id="Premier Fondateur" label="Premier Fondateur" />
+      <node id="Le Premier Orateur consulta la Table" label="Le Premier Orateur consulta la Table" />
+      <node id="Vas" label="Vas" />
+      <node id="Sura" label="Sura" />
+      <node id="Pasque" label="Pasque" />
+      <node id="R'tournez" label="R'tournez" />
+      <node id="Oratrice Delora Delarmi" label="Oratrice Delora Delarmi" />
+      <node id="- Invoquer" label="- Invoquer" />
+      <node id="Hamiens" label="Hamiens" />
+      <node id="Oratrice" label="Oratrice" />
+      <node id="Orateur Leslim" label="Orateur Leslim" />
+      <node id="Oratrice Delarmi" label="Oratrice Delarmi" />
+      <node id="Delora &#10;Delarmi" label="Delora &#10;Delarmi" />
+      <node id="Maître Cherchieur" label="Maître Cherchieur" />
+      <node id="Maître" label="Maître" />
+      <node id="Hyperespace" label="Hyperespace" />
+      <node id="Bon" label="Bon" />
+      <node id="parsec" label="parsec" />
+      <node id="Concentrez" label="Concentrez" />
+      <node id="Gardez" label="Gardez" />
+      <node id="Inutile" label="Inutile" />
+      <node id="Mamie Supernova" label="Mamie Supernova" />
+      <node id="Leonis Cheng" label="Leonis Cheng" />
+      <node id="Orateur Cheng" label="Orateur Cheng" />
+      <node id="Le Premier Orateur Shandess" label="Le Premier Orateur Shandess" />
+      <node id="Finissez" label="Finissez" />
+      <node id="Rappelez" label="Rappelez" />
+      <node id="Hamienne" label="Hamienne" />
+      <node id="Oratrice Delora &#10;Delarmi" label="Oratrice Delora &#10;Delarmi" />
+      <node id="Orateur &#10;Delarmi" label="Orateur &#10;Delarmi" />
+      <node id="Orateur &#10;Gendibal" label="Orateur &#10;Gendibal" />
+      <node id="Le Premier Orateur objecta" label="Le Premier Orateur objecta" />
+      <node id="Table" label="Table" />
+      <node id="grommela Shandess" label="grommela Shandess" />
+      <node id="anti-Mulets &#10;-" label="anti-Mulets &#10;-" />
+      <node id="Nul" label="Nul" />
+      <node id="Descendons" label="Descendons" />
+      <node id="Sobhaddartha" label="Sobhaddartha" />
+      <node id="Considérez" label="Considérez" />
+      <node id="Ecoute" label="Ecoute" />
+      <node id="-y. Parlez" label="-y. Parlez" />
+      <node id="Mettre" label="Mettre" />
+      <node id="Avais-tu pensé" label="Avais-tu pensé" />
+      <node id="Guère" label="Guère" />
+      <node id="diriez" label="diriez" />
+      <node id="Comporellon" label="Comporellon" />
+      <node id="Epsilon Eridani" label="Epsilon Eridani" />
+      <node id="- Pas" label="- Pas" />
+      <node id="menthe" label="menthe" />
+      <node id="Munn Li Compor" label="Munn Li Compor" />
+      <node id="Le Mulet" label="Le Mulet" />
+      <node id="Surgi" label="Surgi" />
+      <node id="- Pelorat" label="- Pelorat" />
+      <node id="Accordez" label="Accordez" />
+      <node id="Vus" label="Vus" />
+      <node id="Grâces" label="Grâces" />
+      <node id="grommela Trevize" label="grommela Trevize" />
+      <node id="Jendippurus Khoratt" label="Jendippurus Khoratt" />
+      <node id="Quintesetz" label="Quintesetz" />
+      <node id="Janov Pelorat de Terminus" label="Janov Pelorat de Terminus" />
+      <node id="S. Q." label="S. Q." />
+      <node id="Askone" label="Askone" />
+      <node id="Fondamentale" label="Fondamentale" />
+      <node id="J. P." label="J. P." />
+      <node id="Robot" label="Robot" />
+      <node id="- Parce" label="- Parce" />
+      <node id="S. &#10;Q." label="S. &#10;Q." />
+      <node id="Globusculaire" label="Globusculaire" />
+      <node id="- Cosmographiquement" label="- Cosmographiquement" />
+      <node id="Professeur Quintesetz" label="Professeur Quintesetz" />
+      <node id="Censé" label="Censé" />
+      <node id="Scychellois" label="Scychellois" />
+      <node id="Anonymement" label="Anonymement" />
+      <node id="Laissons Gaïa" label="Laissons Gaïa" />
+      <node id="Magnifique" label="Magnifique" />
+      <node id="Gai'a. En avant !" label="Gai'a. En avant !" />
+      <node id="Voilà" label="Voilà" />
+      <node id="Madame" label="Madame" />
+      <node id="Nettoyés" label="Nettoyés" />
+      <node id="grommela Gendibal" label="grommela Gendibal" />
+      <node id="Gendibal grommela" label="Gendibal grommela" />
+      <node id="Appelez-le Gaïa-S" label="Appelez-le Gaïa-S" />
+      <node id="Gaïa-P" label="Gaïa-P" />
+      <node id="Gaïa-S. Notez" label="Gaïa-S. Notez" />
+      <node id="Détendez" label="Détendez" />
+      <node id="Fécliptique" label="Fécliptique" />
+      <node id="Saisir" label="Saisir" />
+      <node id="Pelorat grommela" label="Pelorat grommela" />
+      <node id="Supposez" label="Supposez" />
+      <node id="ta combinaison" label="ta combinaison" />
+      <node id="Trantorien" label="Trantorien" />
+      <node id="Primo" label="Primo" />
+      <node id="pépin" label="pépin" />
+      <node id="N'" label="N'" />
+      <node id="Décevez" label="Décevez" />
+      <node id="Maigre" label="Maigre" />
+      <node id="Seriez" label="Seriez" />
+      <node id="Faute" label="Faute" />
+      <node id="Joidilachicarella" label="Joidilachicarella" />
+      <node id="Hein" label="Hein" />
+      <node id="Ma mère" label="Ma mère" />
+      <node id="Joie" label="Joie" />
+      <node id="Trev" label="Trev" />
+      <node id="Dom" label="Dom" />
+      <node id="Avancez" label="Avancez" />
+      <node id="Doms" label="Doms" />
+      <node id="Gaïen" label="Gaïen" />
+      <node id="Liebel Gennerat" label="Liebel Gennerat" />
+      <node id="Gennerat" label="Gennerat" />
+      <node id="Savez" label="Savez" />
+      <node id="II leva" label="II leva" />
+      <node id="hein" label="hein" />
+      <node id="urge^ce" label="urge^ce" />
+      <node id="Voire" label="Voire" />
+      <node id="Victimes" label="Victimes" />
+      <node id="Envisagez" label="Envisagez" />
+      <node id="Passez" label="Passez" />
+      <node id="Brann" label="Brann" />
+      <node id="Storgendibal" label="Storgendibal" />
+      <node id="Patienter" label="Patienter" />
+      <node id="Ma" label="Ma" />
+      <node id="Canalisée" label="Canalisée" />
+      <node id="Gaï'" label="Gaï'" />
+      <node id="Golan &#10;" label="Golan &#10;" />
+      <node id="Us" label="Us" />
+      <node id="Joie hocha" label="Joie hocha" />
+      <node id="Gaï'a. Vous le savez" label="Gaï'a. Vous le savez" />
+      <node id="Gaï'a. Je" label="Gaï'a. Je" />
+      <node id="Dom haussa" label="Dom haussa" />
+    </nodes>
+    <edges>
+      <edge source="Asimov" target="Isaac" id="0">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Seldon" id="1">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="N'" id="2">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Branno" id="3">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Golan" id="4">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Kodell" id="5">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Avez" id="6">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Empire" id="7">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Pouvez" id="8">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Bon" id="9">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="II" id="10">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Flexner" id="11">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Terminus" id="12">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="lutta" id="13">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Quels" id="14">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="madame" id="15">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Trevize" id="16">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Janov" id="17">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Pelorat" id="18">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Hardin" id="19">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Trantor" id="20">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Madame" id="21">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="T" id="22">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="détendez" id="23">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Gendibal" id="24">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="pépin" id="25">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Parlez" id="26">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Delarmi" id="27">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Orateur" id="28">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Hyperespace" id="29">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Gardez" id="30">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Oratrice" id="31">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Inutile" id="32">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Mettre" id="33">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Guère" id="34">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Accordez" id="35">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Vus" id="36">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Grâces" id="37">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Shandess" id="38">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Ecoutez" id="39">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Gaïa" id="40">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="hein" id="41">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Quintesetz" id="42">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Fondamentale" id="43">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Globusculaire" id="44">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Professeur" id="45">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Mulet" id="46">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Scychellois" id="47">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Anonymement" id="48">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Magnifique" id="49">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Liono" id="50">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Maigre" id="51">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Seriez" id="52">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Trev" id="53">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Joie" id="54">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Dom" id="55">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Savez" id="56">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Primo" id="57">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Brann" id="58">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Canalisée" id="59">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Us" id="60">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Trevize" target="Gaï'" id="61">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Hannis" target="Seldon" id="62">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Hardin" target="Seldon" id="63">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Hardin" target="Seulement" id="64">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Hardin" target="II" id="65">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Hardin" target="Nul" id="66">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Hardin" target="Kodell" id="67">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Terminus" id="68">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Seldon" id="69">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Mulet" id="70">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Madame" id="71">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Arkady" id="72">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Déviations" id="73">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Orateur" id="74">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Gendibal" id="75">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Nul" id="76">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Surgi" id="77">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Gaïa" id="78">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Scychellois" id="79">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Pelorat" id="80">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Joie" id="81">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Mulet" target="Dom" id="82">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Seldon" id="83">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Kodell" id="84">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Branno" id="85">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="II" id="86">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="lutta" id="87">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="parsec" id="88">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Avez" id="89">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="madame" id="90">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Pelorat" id="91">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="N'" id="92">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Trantor" id="93">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Terminus" id="94">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="T" id="95">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Janov" id="96">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Bon" id="97">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Anacréon" id="98">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Seulement" id="99">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="J.L.G." id="100">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Gaïa" id="101">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Gendibal" id="102">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Palver" id="103">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Grâces" id="104">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Quintesetz" id="105">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Scychellois" id="106">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Magnifique" id="107">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Golan" id="108">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Ecoutez" id="109">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Empire" id="110">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Terminus" target="Orateur" id="111">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="madame" id="112">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Branno" id="113">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Kodell" id="114">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Ecoutez" id="115">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="II" id="116">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Janov" id="117">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Pelorat" id="118">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Orateur" id="119">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Gendibal" id="120">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Table" id="121">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Delarmi" id="122">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Seldon" id="123">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Trantor" id="124">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Empire" id="125">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Avez" id="126">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Golan" id="127">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Guère" id="128">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Accordez" id="129">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Sura" id="130">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Maître" id="131">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Quintesetz" id="132">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Gaïa" id="133">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Détendez" id="134">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Hamiens" id="135">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Décevez" id="136">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="II" target="Joie" id="137">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Branno" id="138">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Liono" id="139">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Seldon" id="140">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Avez" id="141">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Bon" id="142">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="madame" id="143">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Kodell" id="144">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Madame" id="145">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Gaïa" id="146">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Gendibal" id="147">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Kodell" target="Inutile" id="148">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pouvez" target="Orateur" id="149">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Pouvez" target="madame" id="150">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Pouvez" target="Liono" id="151">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Madame" id="152">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="N'" id="153">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Seldon" id="154">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Liono" id="155">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Nul" id="156">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Branno" id="157">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Empire" id="158">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="lutta" id="159">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Arkady" id="160">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Trantor" id="161">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Quels" id="162">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Permettez" id="163">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Janov" id="164">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Gaïa" id="165">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Primo" id="166">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Gendibal" id="167">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Ma" id="168">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Bon" id="169">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Pelorat" id="170">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="Orateur" id="171">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Branno" target="madame" id="172">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Bel" target="Riose" id="173">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Bel" target="Bel" id="174">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Riose" target="Riose" id="175">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Arkady" target="Seldon" id="176">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Arkady" target="Madame" id="177">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Arkady" target="Trantor" id="178">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Arkady" target="Arkady" id="179">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Seldon" id="180">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Golan" id="181">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Avez" id="182">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Empire" id="183">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="madame" id="184">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Liono" id="185">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Orateur" id="186">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Shandess" id="187">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Gendibal" id="188">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="considérez" id="189">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Seulement" id="190">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Table" id="191">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Delarmi" id="192">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Preem" id="193">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Palver" id="194">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Sinon" id="195">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Maître" id="196">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Voilà" id="197">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Bon" id="198">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Gaïa" id="199">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Seldon" target="Trantor" id="200">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Trantor" id="201">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Empire" id="202">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Table" id="203">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Orateur" id="204">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Gendibal" id="205">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Oratrice" id="206">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Delarmi" id="207">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Pelorat" id="208">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Gaïa" id="209">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Madame" id="210">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Empire" target="Maigre" id="211">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Historien" target="Janov" id="212">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Historien" target="Pelorat" id="213">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Janov" id="214">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Trantor" id="215">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="madame" id="216">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Golan" id="217">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Connaissez" id="218">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Sinon" id="219">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Parlez" id="220">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Hyperespace" id="221">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Bon" id="222">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Concentrez" id="223">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Gendibal" id="224">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Oratrice" id="225">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Delarmi" id="226">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="N'" id="227">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Guère" id="228">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Comporellon" id="229">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Ecoutez" id="230">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Rappelez" id="231">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="T" id="232">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Orateur" id="233">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Avez" id="234">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Pelorat" id="235">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Accordez" id="236">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Gaïa" id="237">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Quintesetz" id="238">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Askone" id="239">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Anonymement" id="240">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Joie" id="241">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Trev" id="242">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Dom" id="243">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Gennerat" id="244">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Primo" id="245">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Pelorat" target="Passez" id="246">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Shandess" id="247">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Orateur" id="248">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Gendibal" id="249">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Table" id="250">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Delarmi" id="251">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Janov" id="252">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Accordez" id="253">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Quintesetz" id="254">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Avez" target="Trev" id="255">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Golan" id="256">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Connaissez" id="257">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Parlez" id="258">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Hyperespace" id="259">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Gaïa" id="260">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Bon" id="261">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Descendons" id="262">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Guère" id="263">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Orateur" id="264">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Accordez" id="265">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Quintesetz" id="266">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="N'" id="267">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Janov" id="268">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Détendez" id="269">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Ecoutez" id="270">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Rappelez" id="271">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Janov" target="Joie" id="272">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Trantor" id="273">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Quels" id="274">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="N'" id="275">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Golan" id="276">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Table" id="277">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Gendibal" id="278">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Quiconque" id="279">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Oratrice" id="280">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Delarmi" id="281">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Preem" id="282">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Palver" id="283">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Hamienne" id="284">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Voilà" id="285">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Gaïa" id="286">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="madame" id="287">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Seulement" id="288">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Maître" id="289">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Orateur" id="290">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="Shandess" id="291">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Trantor" target="T" id="292">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Connaissez" target="Voire" id="293">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="Liono" id="294">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="Gaïa" id="295">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="Voilà" id="296">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="hein" id="297">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="Gendibal" id="298">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="Supposez" id="299">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="madame" target="Victimes" id="300">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Réfléchissez" target="Réfléchissez" id="301">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Liono" target="Gaïa" id="302">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Liono" target="hein" id="303">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Orateur" id="304">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Gendibal" id="305">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Oratrice" id="306">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Delarmi" id="307">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Comporellon" id="308">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Golan" id="309">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Joie" id="310">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Ecoutez" target="Gaïa" id="311">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Professeur" target="Quintesetz" id="312">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Fermez" target="détendez" id="313">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Orateur" id="314">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Table" id="315">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Preem" id="316">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Palver" id="317">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Gendibal" id="318">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Shandess" id="319">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Golan" id="320">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Hamien" id="321">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Déviations" id="322">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="brun" id="323">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Rufirant" id="324">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Y" id="325">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Oratrice" id="326">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Vas" id="327">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Delarmi" id="328">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="N'" id="329">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Mettre" id="330">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Finissez" id="331">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Nul" id="332">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Grâces" id="333">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Hamienne" id="334">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Ecoute" id="335">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Maître" id="336">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Hamiens" id="337">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Trantorien" id="338">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Racontez" id="339">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Ma" id="340">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Gendibal" target="Gaïa" id="341">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Shandess" target="Orateur" id="342">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Shandess" target="Table" id="343">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Shandess" target="Delarmi" id="344">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Table" id="345">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Orateur" id="346">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Voilà" id="347">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Preem" id="348">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Pal" id="349">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Palver" id="350">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Déviations" id="351">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Delarmi" id="352">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Oratrice" id="353">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Hamiens" id="354">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Y" id="355">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Inutile" id="356">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Mettre" id="357">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Nul" id="358">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Golan" id="359">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Accordez" id="360">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Sura" id="361">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Gaïa" id="362">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Primo" id="363">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="pépin" id="364">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Racontez" id="365">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Maître" id="366">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="T" id="367">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Joie" id="368">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Orateur" target="Storgendibal" id="369">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Preem" target="Palver" id="370">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Preem" target="Voilà" id="371">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Preem" target="Pal" id="372">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Preem" target="Déviations" id="373">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Preem" target="Delarmi" id="374">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Preem" target="Table" id="375">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Pal" target="Déviations" id="376">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Palver" target="Voilà" id="377">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Palver" target="Palver" id="378">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Palver" target="Delarmi" id="379">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Palver" target="Table" id="380">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Palver" target="Nul" id="381">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Sinon" target="Golan" id="382">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Sinon" target="Sauriez" id="383">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Sauriez" target="Golan" id="384">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Anacréon" target="Anacréon" id="385">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Parlez" target="Bon" id="386">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Parlez" target="Golan" id="387">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Racontez" target="Oratrice" id="388">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Racontez" target="Delarmi" id="389">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Gaïa" id="390">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Oratrice" id="391">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Delarmi" id="392">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="N'" id="393">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Bon" id="394">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Comporellon" id="395">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Voilà" id="396">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Quintesetz" id="397">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Golan" target="Joie" id="398">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Quintesetz" id="399">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Gaïa" id="400">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Censé" id="401">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="N'" id="402">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Scychellois" id="403">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Bon" id="404">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Détendez" id="405">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Saisir" id="406">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Maigre" id="407">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Joie" id="408">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Y" id="409">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Trev" id="410">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Dom" id="411">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Avancez" id="412">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Primo" id="413">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Maître" id="414">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Gaïa" target="Canalisée" id="415">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Hamien" target="Delarmi" id="416">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Déviations" target="Déviations" id="417">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Rufirant" target="Y" id="418">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Rufirant" target="Sura" id="419">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Rufirant" target="Delarmi" id="420">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Rufirant" target="Maître" id="421">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Y" target="Rappelez" id="422">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Y" target="Joie" id="423">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Table" id="424">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Oratrice" id="425">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Delarmi" id="426">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Sura" id="427">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Inutile" id="428">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Bon" id="429">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Finissez" id="430">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Delarmi" target="Voilà" id="431">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Sura" target="Sura" id="432">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Sura" target="Maître" id="433">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Sura" target="Oratrice" id="434">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Sura" target="Accordez" id="435">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Hamiens" target="hein" id="436">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Oratrice" target="Table" id="437">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Oratrice" target="Inutile" id="438">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Oratrice" target="Voilà" id="439">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="Maître" target="Maître" id="440">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Hyperespace" target="N'" id="441">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Bon" target="Descendons" id="442">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bon" target="Anonymement" id="443">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Rappelez" target="Rappelez" id="444">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Rappelez" target="Joie" id="445">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Table" target="Table" id="446">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Sobhaddartha" target="Considérez" id="447">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Quintesetz" target="Quintesetz" id="448">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Quintesetz" target="Ma" id="449">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Quintesetz" target="N'" id="450">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="Askone" target="Askone" id="451">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Supposez" target="Victimes" id="452">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="N'" target="Trev" id="453">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Joidilachicarella" target="Hein" id="454">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Joie" target="Joie" id="455">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Joie" target="Ma" id="456">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Joie" target="Trev" id="457">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Joie" target="Dom" id="458">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Joie" target="Passez" id="459">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Joie" target="Gaï'" id="460">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="Trev" target="Avancez" id="461">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Trev" target="Dom" id="462">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Trev" target="Gaïen" id="463">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="Trev" target="Trev" id="464">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Trev" target="Storgendibal" id="465">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Dom" target="Dom" id="466">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Dom" target="Avancez" id="467">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="Dom" target="Doms" id="468">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Dom" target="Gennerat" id="469">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Gennerat" target="Gennerat" id="470">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="Gennerat" target="Savez" id="471">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="Gaï'" target="Gaï'" id="472">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

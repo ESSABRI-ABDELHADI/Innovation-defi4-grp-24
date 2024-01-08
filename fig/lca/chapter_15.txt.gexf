@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-08">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Boris" label="Boris" />
+      <node id="n’" label="n’" />
+      <node id="Baley" label="Baley" />
+      <node id="Entendu !" label="Entendu !" />
+      <node id="s’" label="s’" />
+      <node id="Francis Clousarr" label="Francis Clousarr" />
+      <node id="L’ouvrier" label="L’ouvrier" />
+      <node id="R. Daneel" label="R. Daneel" />
+      <node id="Avez" label="Avez" />
+      <node id="j’" label="j’" />
+      <node id="m’" label="m’" />
+      <node id="jusqu’" label="jusqu’" />
+      <node id="Daneel" label="Daneel" />
+      <node id="M. Clousarr" label="M. Clousarr" />
+      <node id="D’accord" label="D’accord" />
+      <node id="s’écria Baley" label="s’écria Baley" />
+      <node id="s’écria Clousarr" label="s’écria Clousarr" />
+      <node id="Jamais" label="Jamais" />
+      <node id="Enderby" label="Enderby" />
+      <node id="Dieu du Ciel" label="Dieu du Ciel" />
+      <node id="R. Sammy" label="R. Sammy" />
+      <node id="R.&#10;Sammy" label="R.&#10;Sammy" />
+    </nodes>
+    <edges>
+      <edge source="n’" target="Baley" id="0">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="s’" id="1">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="Daneel" id="2">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="j’" id="3">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="n’" target="n’" id="4">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="s’" id="5">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="Daneel" id="6">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="j’" id="7">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="m’" id="8">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="Baley" id="9">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge source="Baley" target="Enderby" id="10">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="s’" id="11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Avez" id="12">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="j’" id="13">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="m’" id="14">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="jusqu’" id="15">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Daneel" id="16">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Jamais" id="17">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="s’" target="Enderby" id="18">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="j’" target="Daneel" id="19">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge source="j’" target="m’" id="20">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="Jamais" id="21">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="m’" target="m’" id="22">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="jusqu’" target="Daneel" id="23">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Daneel" target="Daneel" id="24">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge source="Jamais" target="Jamais" id="25">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
